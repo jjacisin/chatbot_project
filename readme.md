@@ -13,8 +13,8 @@ Goals:
     - First hand knowledge of a very simple chatbot
       - What are the limitations of this kinds of chatbot?
         - This chatbot will not return a uniquely phrased answer, but rather a tokenized sentence from the datasource
-        
+
 
       - How can I improve on a simple bot?
     - List other approaches for building a bot
-      -
+      - tester_edit
